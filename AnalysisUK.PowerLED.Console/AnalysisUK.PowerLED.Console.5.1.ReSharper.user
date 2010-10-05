@@ -1,0 +1,296 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Config/f:AppConfig.cs" caret="99" fromTop="4" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:Netduino/f:NetduinoHardwareProvider.cs" caret="765" fromTop="20" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/f:LedHardwareProvider.cs" caret="63" fromTop="1" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:Netduino/f:NetduinoLedController.cs" caret="0" fromTop="0" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="1453" fromTop="16" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPHarddwareProvider.cs" caret="756" fromTop="13" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/f:LedHardwareController.cs" caret="1737" fromTop="15" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPLedController.cs" caret="1125" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPHarddwareProvider.cs" caret="808" fromTop="9" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/f:LedHardwareProvider.cs" caret="151" fromTop="5" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/f:LedHardwareController.cs" caret="1495" fromTop="19" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPLedController.cs" caret="313" fromTop="7" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="2071" fromTop="20" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="2240" fromTop="24" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="2422" fromTop="28" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:Netduino/f:NetduinoHardwareProvider.cs" caret="343" fromTop="10" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:Netduino/f:NetduinoHardwareProvider.cs" caret="765" fromTop="20" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="455" fromTop="3" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="260" fromTop="5" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="1258" fromTop="31" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="1154" fromTop="27" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPHarddwareProvider.cs" caret="1073" fromTop="25" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="1035" fromTop="23" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="871" fromTop="14" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPLedController.cs" caret="923" fromTop="34" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPLedController.cs" caret="0" fromTop="0" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPLedController.cs" caret="196" fromTop="6" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/f:LedHardwareController.cs" caret="203" fromTop="6" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/f:LedHardwareController.cs" caret="1256" fromTop="27" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPLedController.cs" caret="1082" fromTop="31" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="1929" fromTop="28" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="1957" fromTop="22" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/f:LedHardwareController.cs" caret="1243" fromTop="34" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="1260" fromTop="10" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/f:Program.cs" caret="1453" fromTop="16" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPHarddwareProvider.cs" caret="756" fromTop="13" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPLedController.cs" caret="855" fromTop="10" />
+      <File id="BAB1AC43-68C4-442F-BBA3-DD57387BC7C7/d:Hardware/d:MeridianP/f:MeridianPLedController.cs" caret="1125" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="PWM`0" priority="0" />
+      <Item value="new" priority="18" />
+      <Item value="PWM" priority="0" />
+      <Item value="ledPin" priority="0" />
+      <Item value="pwm" priority="2" />
+      <Item value="const" priority="2" />
+      <Item value="uint" priority="1" />
+      <Item value="int" priority="3" />
+      <Item value="i" priority="1" />
+      <Item value="while" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="Timeout`0" priority="0" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="_onBoardledPort" priority="2" />
+      <Item value="OutputPort" priority="2" />
+      <Item value="onBoardledPin" priority="0" />
+      <Item value="Cpu`0" priority="4" />
+      <Item value="MeridianP`0" priority="3" />
+      <Item value="InputPort`0" priority="1" />
+      <Item value="switchPin" priority="0" />
+      <Item value="PullUp" priority="0" />
+      <Item value="InterruptPort`0" priority="0" />
+      <Item value="InterruptEdgeHigh" priority="0" />
+      <Item value="_switchPort" priority="0" />
+      <Item value="override" priority="5" />
+      <Item value="HardwareProviders" priority="0" />
+      <Item value="pinUsage" priority="0" />
+      <Item value="Microsoft" priority="2" />
+      <Item value="SPOT" priority="5" />
+      <Item value="Hardware" priority="8" />
+      <Item value="HardwareProvider`0" priority="1" />
+      <Item value="LedHardwareProvider`0" priority="3" />
+      <Item value="hardwareProvider" priority="1" />
+      <Item value="private" priority="6" />
+      <Item value="static" priority="4" />
+      <Item value="return" priority="9" />
+      <Item value="Pin" priority="2" />
+      <Item value="DeviceSolutions" priority="2" />
+      <Item value="Length" priority="2" />
+      <Item value="SecretLabs" priority="1" />
+      <Item value="NETMF" priority="2" />
+      <Item value="Netduino" priority="2" />
+      <Item value="Pins`0" priority="2" />
+      <Item value="NetduinoHardwareProvider`0" priority="2" />
+      <Item value="sealed" priority="0" />
+      <Item value="AnalogInput`0" priority="0" />
+      <Item value="AnalogInput" priority="1" />
+      <Item value="Debug`0" priority="3" />
+      <Item value="string" priority="0" />
+      <Item value="lightLevel" priority="3" />
+      <Item value="if" priority="7" />
+      <Item value="else" priority="3" />
+      <Item value="abstract" priority="2" />
+      <Item value="GetLightLevel`0" priority="0" />
+      <Item value="public" priority="11" />
+      <Item value="_lightSensor" priority="0" />
+      <Item value="void" priority="2" />
+      <Item value="bool" priority="2" />
+      <Item value="LedCount" priority="1" />
+      <Item value="foreach" priority="2" />
+      <Item value="for" priority="0" />
+      <Item value="_ledPorts" priority="0" />
+      <Item value="LedPins" priority="0" />
+      <Item value="ledPort" priority="0" />
+      <Item value="false" priority="1" />
+      <Item value="base" priority="0" />
+      <Item value="_hardwareProvider" priority="0" />
+      <Item value="LedHardwareController`0" priority="1" />
+      <Item value="AppConfig" priority="0" />
+      <Item value="protected" priority="3" />
+      <Item value="HardwareProvider" priority="0" />
+      <Item value="_provider" priority="1" />
+      <Item value="MeridianPHarddwareProvider`0" priority="1" />
+      <Item value="Provider" priority="0" />
+      <Item value="Initialize`0" priority="0" />
+      <Item value="virtual" priority="0" />
+      <Item value="state" priority="1" />
+      <Item value="NetduinoLedController`0" priority="0" />
+      <Item value="_hardwareController" priority="5" />
+      <Item value="Console" priority="0" />
+      <Item value="NetworkInterface`0" priority="2" />
+      <Item value="nics" priority="1" />
+      <Item value="SystemInfo`0" priority="0" />
+      <Item value="Net" priority="0" />
+      <Item value="NetworkInformation" priority="0" />
+      <Item value="Battery`0" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="IPAddress`0" priority="3" />
+      <Item value="ipAddress" priority="3" />
+      <Item value="IPAddress" priority="0" />
+      <Item value="IPEndPoint`0" priority="0" />
+      <Item value="endPoint" priority="1" />
+      <Item value="IPEndPoint" priority="0" />
+      <Item value="Dns`0" priority="0" />
+      <Item value="hostEntry" priority="1" />
+      <Item value="nic" priority="0" />
+      <Item value="Ethernet" priority="0" />
+      <Item value="InterruptPort" priority="0" />
+      <Item value="event" priority="0" />
+      <Item value="NativeEventHandler`0" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="InvokeSwitchPressed`0" priority="0" />
+      <Item value="data1" priority="1" />
+      <Item value="data2" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SecretLabs.NETMF.Hardware.PWM">
+      <Item value="SetDutyCycle`0" priority="0" />
+      <Item value="SetPulse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Timeout">
+      <Item value="Infinite" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SecretLabs.NETMF.Hardware.Netduino.Pins">
+      <Item value="ONBOARD_LED" priority="1" />
+      <Item value="GPIO_PIN_A0" priority="0" />
+      <Item value="GPIO_PIN_D5" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SPOT.Hardware.OutputPort">
+      <Item value="Write`0" priority="2" />
+      <Item value="Read`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DeviceSolutions.SPOT.Hardware.MeridianP+Pins">
+      <Item value="LED" priority="1" />
+      <Item value="GPIO14" priority="1" />
+      <Item value="SW1" priority="1" />
+      <Item value="GPIO15" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SPOT.Hardware.Cpu">
+      <Item value="Pin`0" priority="6" />
+      <Item value="PinUsage`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DeviceSolutions.SPOT.Hardware.MeridianP">
+      <Item value="Pins`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SPOT.Hardware.InputPort">
+      <Item value="OnInterrupt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SPOT.Hardware.Port+InterruptMode">
+      <Item value="InterruptEdgeLow" priority="0" />
+      <Item value="InterruptEdgeLevelLow" priority="2" />
+      <Item value="InterruptEdgeHigh" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SPOT.Hardware.InterruptPort">
+      <Item value="ClearInterrupt`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SPOT.Hardware.HardwareProvider">
+      <Item value="Register`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SPOT.Hardware.Cpu+Pin">
+      <Item value="GPIO_NONE" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AnalysisUK.PowerLED.Console.HardwareProviders.LedHardwareProvider">
+      <Item value="LedPins" priority="1" />
+      <Item value="LightSensorPin" priority="1" />
+      <Item value="LightsOn`0" priority="0" />
+      <Item value="GetLightLevel`0" priority="0" />
+      <Item value="AreLightsOn" priority="1" />
+      <Item value="LedCount" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SPOT.Debug">
+      <Item value="Print`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SecretLabs.NETMF.Hardware.AnalogInput">
+      <Item value="Read`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AnalysisUK.PowerLED.Console.Hardware.LedHardwareProvider">
+      <Item value="LedPins" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AnalysisUK.PowerLED.Console.Config.AppConfig">
+      <Item value="LowLightThreshold" priority="0" />
+      <Item value="HighLightThreshold" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SPOT.Net.NetworkInformation.NetworkInterface">
+      <Item value="GetAllNetworkInterfaces`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SPOT.Hardware.SystemInfo">
+      <Item value="OEMString" priority="0" />
+      <Item value="SystemID`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SPOT.Hardware.SystemInfo+SystemID">
+      <Item value="Model" priority="0" />
+      <Item value="OEM" priority="0" />
+      <Item value="SKU" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.UInt16">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Byte">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AnalysisUK.PowerLED.Console.Hardware.LedHardwareController">
+      <Item value="Initialize`0" priority="0" />
+      <Item value="SwitchPressed" priority="0" />
+      <Item value="AreLightsOn" priority="0" />
+      <Item value="LightsOff`0" priority="0" />
+      <Item value="LightsOn`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AnalysisUK.PowerLED.Console.Hardware.MeridianP.MeridianPHarddwareProvider">
+      <Item value="IsHardwareMeridianP`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SPOT.Hardware.Battery">
+      <Item value="OnCharger`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.Dns">
+      <Item value="GetHostEntry`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.IPHostEntry">
+      <Item value="AddressList" priority="0" />
+      <Item value="HostName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.IPAddress">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.IPAddress">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SPOT.Net.NetworkInformation.NetworkInterface">
+      <Item value="NetworkInterfaceType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="UtcNow" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

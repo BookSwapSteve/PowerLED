@@ -1,0 +1,3 @@
+Please refer to the product suppliers for licensing and copyright of the support components in this folder and subfolders.
+
+These are NOT under the MS/PL license.
