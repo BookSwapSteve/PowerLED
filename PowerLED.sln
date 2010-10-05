@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalysisUK.PowerLED.Console", "AnalysisUK.PowerLED.Console.csproj", "{BAB1AC43-68C4-442F-BBA3-DD57387BC7C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalysisUK.PowerLED.Console", "AnalysisUK.PowerLED.Console\AnalysisUK.PowerLED.Console.csproj", "{BAB1AC43-68C4-442F-BBA3-DD57387BC7C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
