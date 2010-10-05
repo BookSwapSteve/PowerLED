@@ -1,0 +1,17 @@
+This project ia a Home Automation solution for controlling LED lighting using a Netduino or Meridian/P
+
+Aims:
+	Enabled the control of multiple high power (1 or 3 Watt) LEDs.
+	Controlled via a network adaptor (or possible other local solution).
+	Additional sensors on the device to make it a little more interesting.
+	If possible to use POE (802.3af) to power the LEDs.
+
+Hardware:
+	Netduino (not network capable so aim for Netduino Plus when released)
+	or Meridian/P (no analog input so limited sensor config) and requires network module.
+
+Framework:
+	Using .NET Micro Framework 4.1 and VS2010 for development.
+
+More Info:
+	Please see either the Wiki or http://blog.IImplement.net
