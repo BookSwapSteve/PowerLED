@@ -11,8 +11,7 @@ namespace AnalysisUK.PowerLED.Console
     public class Program
     {
         private static LedHardwareController _hardwareController;
-        //private static InterruptPort _switchPort;
-        private static AppConfig _appConfig = new AppConfig();
+        private static AppConfig _appConfig;
 
         public static void Main()
         {
@@ -31,10 +30,9 @@ namespace AnalysisUK.PowerLED.Console
                 _hardwareController = new NetduinoLedController();  
             }
 
-            _hardwareController.SwitchPressed += _hardwareController_SwitchPressed;
+            _hardwareController.SwitchPressed += hardwareController_SwitchPressed;
             _hardwareController.Initialize();
-
-            _appConfig = new AppConfig();
+            _appConfig = _hardwareController.AppConfig;
 
             // Create a new timer to check the light level.
             new Timer(timerTick, null, 100, 5000);
@@ -42,7 +40,7 @@ namespace AnalysisUK.PowerLED.Console
             Thread.Sleep(Timeout.Infinite);
         }
 
-        static void _hardwareController_SwitchPressed(uint data1, uint data2, DateTime time)
+        static void hardwareController_SwitchPressed(uint data1, uint data2, DateTime time)
         {
             if (_hardwareController.AreLightsOn)
             {
