@@ -1,4 +1,4 @@
-using System;
+using AnalysisUK.PowerLED.Console.Config;
 using Microsoft.SPOT.Hardware;
 
 namespace AnalysisUK.PowerLED.Console.Hardware
@@ -7,9 +7,11 @@ namespace AnalysisUK.PowerLED.Console.Hardware
     {
         public event NativeEventHandler SwitchPressed;
 
-        #region Protected Properties
-        
+        #region Public Properties
+
         public bool AreLightsOn { get; protected set; }
+
+        public AppConfig AppConfig { get; protected set; }
 
         #endregion
 
@@ -56,6 +58,7 @@ namespace AnalysisUK.PowerLED.Console.Hardware
 
         protected virtual void OnInitiaze()
         {
+            AppConfig = LoadConfiguration();
             LedPorts = new OutputPort[Provider.LedPins.Length];
 
             for (int i = 0; i < Provider.LedPins.Length; i++)
@@ -73,6 +76,11 @@ namespace AnalysisUK.PowerLED.Console.Hardware
                 ledPort.Write(state);
             }
             AreLightsOn = state;
+        }
+
+        protected virtual AppConfig LoadConfiguration()
+        {
+            return new AppConfig { HighLightThreshold = 50, LowLightThreshold = 20 };
         }
 
         #endregion
