@@ -1,9 +1,9 @@
 using System;
-using Microsoft.SPOT;
 
 namespace AnalysisUK.PowerLED.Console.Config
 {
-    class AppConfig
+    [Serializable]
+    public class AppConfig
     {
         public int LowLightThreshold { get; set; }
 
